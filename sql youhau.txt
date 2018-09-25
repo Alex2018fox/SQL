@@ -1,0 +1,16 @@
+SQL Server 优化方案： https://blog.csdn.net/zhushuai1221/article/details/5174084
+
+SQL 数据库优化方案
+数据自身优化
+SQL Server Master Data Services(MDS)
+          3 MS Master Data Service
+
+SQL表分区
+
+数据库性能优化
+
+数据库性能优化详解
+
+关系型数据库性能优化
+数据库设计与性能优化概述
+分布式数据库
